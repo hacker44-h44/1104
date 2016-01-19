@@ -226,10 +226,8 @@ function create_config( )
       "Stats",
       "Value_Get",
       "Value_Get",
-      "Welcome",
-      "ZAC",
       "Version"},
-    sudo_users = {70459880},
+    sudo_users = {62834077},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
