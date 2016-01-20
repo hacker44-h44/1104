@@ -17,15 +17,6 @@ end
 if msg.text == "salam" then
 	return "va aleykol asalam"
 end
-if msg.text == "zac" then
-	return "Barash bezan sak"
-end
-if msg.text == "Zac" then
-	return "Barash bezan sak"
-end
-if msg.text == "ZAC" then
-	return "Barash bezan sak"
-end
 if msg.text == "Umbrella" then
 	return "Yes?"
 end
